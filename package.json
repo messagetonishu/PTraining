@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/messagetonishu/PTraining/issues"
   },
-  "homepage": "https://github.com/messagetonishu/PTraining#readme"
+  "homepage": "https://github.com/messagetonishu/PTraining#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
